@@ -1,0 +1,8 @@
+2023-08-06 06:43:49.413246 - Initialized conversion of CBT725
+2023-08-06 06:43:49.486385 - Received CBT.V505.FILE725.PDS from FILE725.XMI 
+2023-08-06 06:43:49.488789 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE725.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:43:49.489860 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE725.PDS, moved to PDS/$$$DOC
+2023-08-06 06:43:49.490873 - Found @FILE725.txt (text/plain) in CBT.V505.FILE725.PDS, moved to PDS/@FILE725
+2023-08-06 06:43:49.492006 - Found AUX2SVG.rexx (text/plain) in CBT.V505.FILE725.PDS, moved to PDS/AUX2SVG
+2023-08-06 06:43:49.492016 - Found GPL.bin containing application/octet-stream, moved to PDS/GPL
+2023-08-06 06:43:49.494108 - Found RUNJOB.jcl (text/plain) in CBT.V505.FILE725.PDS, moved to PDS/RUNJOB
