@@ -1,7 +1,7 @@
-2025-04-15 05:01:23.795792 - Received CBT.V508.FILE725.PDS from FILE725.XMI 
-2025-04-15 05:01:23.796911 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:01:23.797280 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/$$$DOC
-2025-04-15 05:01:23.797583 - Found @FILE725.txt (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/@FILE725
-2025-04-15 05:01:23.799015 - Found AUX2SVG.rexx (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/AUX2SVG
-2025-04-15 05:01:23.799700 - Found GPL.bin (application/octet-stream) in CBT.V508.FILE725.PDS, moved to PDS/GPL
-2025-04-15 05:01:23.800030 - Found RUNJOB.jcl (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/RUNJOB
+2025-04-15 23:43:16.774072 - Received CBT.V508.FILE725.PDS from FILE725.XMI 
+2025-04-15 23:43:16.775304 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:43:16.775708 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/$$$DOC
+2025-04-15 23:43:16.775775 - Found @FILE725.txt (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/@FILE725
+2025-04-15 23:43:16.776794 - Found AUX2SVG.rexx (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/AUX2SVG
+2025-04-15 23:43:16.777420 - Found GPL.bin (application/octet-stream) in CBT.V508.FILE725.PDS, moved to PDS/GPL
+2025-04-15 23:43:16.777727 - Found RUNJOB.jcl (text/plain) in CBT.V508.FILE725.PDS, moved to PDS/RUNJOB
